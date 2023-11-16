@@ -1,0 +1,8 @@
+pip install selenium
+pip install pandas==1.4.2
+pip install openpyxl
+pip install xlrd
+pip install numpy
+pip install jinja2
+instalar chromedriver
+direccion archivo 'directory'
